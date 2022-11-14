@@ -6,7 +6,6 @@ number1 = Number(number1);
 number2 = Number(number2); 
 
 const sum = number1 + number2;
-const sumResult = `A soma dos dois números é: ${sum}.`;
 const sub = `A subtração dos dois números é: ${number1 - number2}.`;
 const div = `A divisão dos dois números é: ${number1 / number2}.`;
 const rest = `O resto da divisão é: ${number1 % number2}.`;
